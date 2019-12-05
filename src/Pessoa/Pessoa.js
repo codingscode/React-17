@@ -14,7 +14,6 @@ class Pessoa extends Component {
             <input type='text' onChange={this.props.changed} value={this.props.nome}></input>
          </div>
       )   
-
    }
    
 }
